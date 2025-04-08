@@ -14,6 +14,6 @@ A simple digital twin that monitors CPU and RAM usage of your PC and visualizes 
    ```bash
    pip install flask psutil
 3. Run the project.
-   ´´´bash
+   ```bash
    python server.py
 
