@@ -13,3 +13,7 @@ A simple digital twin that monitors CPU and RAM usage of your PC and visualizes 
 2. Install dependencies:
    ```bash
    pip install flask psutil
+3. Run the project.
+   ´´´bash
+   python server.py
+
